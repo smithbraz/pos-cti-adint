@@ -101,4 +101,5 @@ https://apackets.com/
 ## Estudo de Caso: Exploração de Apache e ransomware LockBit
 Apache ActiveMQ Exploit Leads to LockBit Ransomware
 The DFIR Report - February 23, 2026
+
 https://thedfirreport.com/2026/02/23/apache-activemq-exploit-leads-to-lockbit-ransomware/
