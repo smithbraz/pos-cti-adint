@@ -229,10 +229,10 @@ T1041 – Exfiltration Over C2 Channel
 Preparação do ambiente:
 - Baixar Scripts ps1 no Kali Linux
 ```
-wget https://raw.githubusercontent.com/thiagosmith/pos-cti-adint/refs/heads/main/Modulo01/scripts/dropper.ps1
+wget https://raw.githubusercontent.com/smithbraz/pos-cti-adint/refs/heads/main/Modulo01/scripts/dropper.ps1
 ```
 ```
-wget https://raw.githubusercontent.com/thiagosmith/pos-cti-adint/refs/heads/main/Modulo01/scripts/update.ps1
+wget https://raw.githubusercontent.com/smithbraz/pos-cti-adint/refs/heads/main/Modulo01/scripts/update.ps1
 ```
 - Subir WebServer em Python no Kali Linux
 ```
