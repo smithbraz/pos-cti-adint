@@ -11,11 +11,11 @@ https://www.kali.org/get-kali/#kali-platforms
 
 - Baixar a VM Windows 10 para realização das atividades práticas.
 
-https://drive.google.com/file/d/1NvGq_lM4VbzOEJ3xlg7tFpLN-0EkgmnT/view?usp=sharing
+
 
 - Ambiente criado com VMWare. Link para Download:
 
-https://drive.google.com/file/d/13-EJzePowiFRAprnitNS2W8KUnmAcZBw/view?usp=drive_link
+
 
 https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
 
