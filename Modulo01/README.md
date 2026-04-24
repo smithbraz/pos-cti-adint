@@ -307,43 +307,19 @@ tar zxvf v4.0.tar.gz
 ```
 cd spiderfoot
 ```
-Criando arquivo requeriments.txt
+Apagando arquivo requeriments.txt
 ```
-adblockparser
-dnspython
-ExifRead
-CherryPy
-cherrypy-cors
-Mako
-beautifulsoup4
-lxml
-netaddr
-pysocks
-requests
-ipwhois
-ipaddr
-phonenumbers
-pygexf
-PyPDF2
-python-whois
-secure
-pyOpenSSL
-python-docx
-python-pptx
-networkx
-cryptography
-publicsuffixlist
-openpyxl
-pyyaml
+rm -rf requirements.txt
+```
+Baixando arquivo requeriments.txt
+```
+wget https://raw.githubusercontent.com/smithbraz/pos-cti-adint/refs/heads/main/Modulo01/scripts/requirements.txt
 ```
 - Instalando dependências
 ```
 pip3 install -r requirements.txt --break-system-packages
 ```
-- Instalando módulo adicional
-```
-pip3 install PyPDF2 --break-system-packages
-```
+Atualizando o módulo openssl
 ```
 pip install --upgrade pyOpenSSL --break-system-packages
 ```
