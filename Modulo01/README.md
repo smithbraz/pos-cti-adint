@@ -307,6 +307,35 @@ tar zxvf v4.0.tar.gz
 ```
 cd spiderfoot
 ```
+Criando arquivo requeriments.txt
+```
+adblockparser
+dnspython
+ExifRead
+CherryPy
+cherrypy-cors
+Mako
+beautifulsoup4
+lxml
+netaddr
+pysocks
+requests
+ipwhois
+ipaddr
+phonenumbers
+pygexf
+PyPDF2
+python-whois
+secure
+pyOpenSSL
+python-docx
+python-pptx
+networkx
+cryptography
+publicsuffixlist
+openpyxl
+pyyaml
+```
 - Instalando dependências
 ```
 pip3 install -r requirements.txt --break-system-packages
@@ -314,6 +343,9 @@ pip3 install -r requirements.txt --break-system-packages
 - Instalando módulo adicional
 ```
 pip3 install PyPDF2 --break-system-packages
+```
+```
+pip install --upgrade pyOpenSSL --break-system-packages
 ```
 - Executando a aplicação
 ```
