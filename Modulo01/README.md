@@ -462,7 +462,7 @@ https://aviatrix.ai/threat-research-center/silver-dragon-2026-apt41-phishing-leg
 
 https://www.redsheepsec.com/trends/apt41-turns-google-calendar-into-a-covert-c2-channel-with-toughprogress-malware
 
-anavem.com/en/news/cybersecurity/lazarus-group-deploys-medusa-ransomware-in-new-campaign
+https://anavem.com/en/news/cybersecurity/lazarus-group-deploys-medusa-ransomware-in-new-campaign
 
 
 ## 05.5. Playbook de Resposta: Ameaças ao setor de Manufatura no Brasil
