@@ -319,6 +319,12 @@ wget https://raw.githubusercontent.com/smithbraz/pos-cti-adint/refs/heads/main/M
 ```
 pip3 install -r requirements.txt --break-system-packages
 ```
+```
+pip3 install pyyaml --break-system-packages
+```
+```
+pip3 install lxml --break-system-packages
+```
 Atualizando o módulo openssl
 ```
 pip install --upgrade pyOpenSSL --break-system-packages
